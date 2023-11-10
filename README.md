@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mbuguacodes254
 - 👀 I’m interested in becoming a fullstack dev with cloud competencies
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lizziecodes254@gmail.com
 
